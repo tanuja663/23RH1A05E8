@@ -1,0 +1,36 @@
+h1{
+  max-width: 1280px;
+  text-align: center;
+  color: rgb(204, 25, 207);
+}
+
+h3{
+  height: 6em;
+  padding: 1.5em;
+  text-align: center;
+  transition: filter 300ms;
+  color:pink;
+}
+section{
+  background-color:pink;
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/034/120/457/small/shopaholic-online-shopping-black-friday-sale-promotion-background-photo.JPG");
+  background-size:100vw 100vh;
+}  
+p{
+  color:white;
+}
+img {
+  border: 10px solid;
+  border-radius: 6px;
+  padding: 6px;
+  width: 500px;
+  align-items: center
+}
+div {
+  justify-content: center;
+}
+button{
+  background-color: azure;
+  color: black;
+}
+
